@@ -1,0 +1,59 @@
+
+.header{
+    display: flex;
+    background-color: skyblue;
+    border: 10px solid skyblue;
+    height: 10vh;
+    padding: 3px;
+    align-items: center;
+    justify-content: center;
+}
+.header h1{
+    margin-left: 10px;
+}
+img{
+    width: 60px;
+    /* margin-left: 450px;
+    margin-right: 20px; */
+
+}
+.botao{
+    display: flex;
+    border: 10px;
+}
+#submit{
+    margin: 40px;
+    padding: 10px 60px;
+    border-radius: 10px;
+    color: white;
+    background-color: skyblue;
+    border: none;
+    text-decoration: none;
+}
+.content_table {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+table.tabela{
+    border: 1px solid silver;
+}
+tr.top{
+    background-color: skyblue;
+    border: silver;
+}
+th{
+    padding: 10px 50px 10px 50px;
+}
+td{
+    padding: 10px 50px 10px 50px;
+}
+.footer{
+    background-color: skyblue;
+}
+.footer td{
+    text-align: right;
+}
+.botao{
+}
